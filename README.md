@@ -12,10 +12,16 @@ You can always download the latest production version of the application directl
 
 ---
 
-## 🤖 Automated Fetching & API Access
+## 👨‍💻 Facebook page
 
-If you are building an updater script, an external pipeline, or an automated installer, you can query the public GitHub API without any authentication tokens.
+**Drinaluza**
 
-### Latest Release Metadata Endpoint
-```http
-GET [https://api.github.com/repos/ahmed-derbala/drinaluza-expo-releases/releases/latest](https://api.github.com/repos/ahmed-derbala/drinaluza-expo-releases/releases/latest)
+🔗 [Facebook Page](https://www.facebook.com/Drinaluza)
+
+---
+
+## 👨‍💻 Author
+
+**Ahmed Derbala**
+
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/ahmed-derbala/)
