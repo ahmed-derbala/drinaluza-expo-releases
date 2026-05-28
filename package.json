@@ -1,6 +1,6 @@
 {
   "name": "drinaluza-releases",
-  "version": "1.10.6",
+  "version": "1.13.0",
   "description": "Drinaluza, business manager app (mobile and web client)",
   "author": "Ahmed Derbala <derbala.ahmed531992@gmail.com>",
   "repository": {
@@ -11,5 +11,8 @@
     "drinaluza",
     "drinaluza-releases",
     "drinaluza releases"
-  ]
+  ],
+  "scripts": {
+    "ver": "npm version patch --no-git-tag-version"
+  }
 }
