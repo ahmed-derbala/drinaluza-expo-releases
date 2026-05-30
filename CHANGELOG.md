@@ -1,5 +1,3 @@
-# Changelog
-
 ## [1.17.1] - 2026-05-30
 ### Added
 - Re-created a premium, cross-platform `AppUpdater` suite under `src/core/app-updater/` coordinating startup checks, downloads, installations, disk storage queries, and cache cleans.
