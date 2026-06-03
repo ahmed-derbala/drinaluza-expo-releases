@@ -11,6 +11,7 @@
 ### Fixed
 - Fixed asynchronous state layout measurement timing lag in `SmartKeyboardSafeView` by utilizing a synchronously updated mutable ref (`viewportHeightRef`).
 - Fixed ScrollView layout truncation on `/auth` screen by moving centering styles from `contentContainerStyle` to an inner `View` wrapper.
+- Fixed Android keyboard covering the welcome form on `/auth` and blocking scroll by switching `KeyboardAvoidingView` from `behavior={undefined}` to `behavior="height"`, adding dynamic bottom padding based on keyboard height, and replacing `flexGrow: 1` with `minHeight` on the inner content wrapper so it always overflows the shrunken viewport.
 
 ### Removed
 - Removed the custom `KeyboardSafeView` and `KeyboardSafeFlatList` components (`src/core/KeyboardSafeView`) to align with standard React Native event propagation and cross-platform layouts.
