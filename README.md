@@ -4,6 +4,16 @@ This repository serves as the public distribution channel for the **Drinaluza** 
 
 ---
 
+## 🎬 App Demo
+
+<p align="center">
+  <img src="demo.gif" alt="Drinaluza marketplace demo — feed, business profile, search, and profile screens" width="320" />
+</p>
+
+*~45 second walkthrough of the Drinaluza marketplace experience on web.*
+
+---
+
 ## 📥 Download Latest APK
 
 You can always download the latest production version of the application directly from the GitHub Releases page:
