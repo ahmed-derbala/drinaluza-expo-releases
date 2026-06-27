@@ -7,10 +7,22 @@ This repository serves as the public distribution channel for the **Drinaluza** 
 ## 🎬 App Demo
 
 <p align="center">
-  <img src="demo.gif" alt="Drinaluza marketplace demo — feed, business profile, search, and profile screens" width="320" />
+  <img src="docs/demo.gif" alt="Drinaluza marketplace demo — feed, business profile, search, and profile screens" width="320" />
 </p>
 
 *~45 second walkthrough of the Drinaluza marketplace experience on web.*
+
+---
+
+## 📱 Screenshots
+
+<!-- SCREENSHOTS_START -->
+<p align="center">
+  <img src="docs/screenshots/auth_screen.jpeg" alt="Auth Screen" width="260" style="margin: 10px" />
+  <img src="docs/screenshots/feed_screen.jpeg" alt="Feed Screen" width="260" style="margin: 10px" />
+  <img src="docs/screenshots/update_screen.jpeg" alt="Update Screen" width="260" style="margin: 10px" />
+</p>
+<!-- SCREENSHOTS_END -->
 
 ---
 
