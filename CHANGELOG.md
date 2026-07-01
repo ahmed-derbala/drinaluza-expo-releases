@@ -5,6 +5,7 @@
 
 ### Changed
 - Allow user, business, product, and account names and slugs to wrap to 2 lines instead of truncating at 1 to gracefully support lengths of up to 50 characters.
+- Stack contact actions on separate rows below names and slugs in card layouts (users, businesses, and products) to maximize width and avoid truncation.
 
 ## [1.27.12] - 28 june 2026
 ### Changed
