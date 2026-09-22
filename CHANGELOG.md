@@ -1,10 +1,15 @@
+## [1.70.1] - 22 september 2026
+
+### Changed
+- Switched the app config to the production flavor (production name, icon, Android package, link scheme, and NODE_ENV).
+
 ## [1.69.0] - 22 september 2026
 
 ### Added
 - Added docs/.env.example template documenting the required public environment variables.
 
 ### Changed
-- Pointed the release scripts (APK publishing and changelog sync) to the drinaluza-expo-releases repository.
+- Pointed the release scripts (APK publishing and changelog sync) to the drinaluza-releases repository.
 - Allowed docs/.env.example through .gitignore and .easignore while keeping real .env files ignored.
 
 ## [1.65.0] - 21 september 2026
